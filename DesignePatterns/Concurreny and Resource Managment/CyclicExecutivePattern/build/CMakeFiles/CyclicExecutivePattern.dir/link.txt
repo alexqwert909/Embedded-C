@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\CyclicExecutivePattern.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\CyclicExecutivePattern.dir/objects.a @CMakeFiles\CyclicExecutivePattern.dir\objects1
+C:\msys64\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\CyclicExecutivePattern.dir/objects.a -Wl,--no-whole-archive -o CyclicExecutivePattern.exe -Wl,--out-implib,libCyclicExecutivePattern.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CyclicExecutivePattern.dir\linkLibs.rsp

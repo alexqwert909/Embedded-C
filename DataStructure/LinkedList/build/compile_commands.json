@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Backup/GrUp/LinkedList/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\LinkedList.dir\\list.c.obj -c C:\\Backup\\GrUp\\LinkedList\\list.c",
+  "file": "C:/Backup/GrUp/LinkedList/list.c"
+},
+{
+  "directory": "C:/Backup/GrUp/LinkedList/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\LinkedList.dir\\main.c.obj -c C:\\Backup\\GrUp\\LinkedList\\main.c",
+  "file": "C:/Backup/GrUp/LinkedList/main.c"
+}
+]
